@@ -9,7 +9,7 @@
 
 < h3 align="left">Connettiti con me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hala aniba" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hala aniba " altezza="30" larghezza="40" /></a>
+<a href="https://linkedin.com/in/hala aniba" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hala aniba " altezza="20" larghezza="20" /></a>
 <a href="https://instagram.com/hala_aniba" target="blank"><img align="center" src="https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hala_aniba" Height="30" width="40" />< /a>
 </p>
 
